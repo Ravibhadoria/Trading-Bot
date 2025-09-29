@@ -1,4 +1,4 @@
-#4 
+
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
 import threading
@@ -360,4 +360,5 @@ class DeltaTradingApp(tk.Tk):
 if __name__ == "__main__":
     app = DeltaTradingApp()
     app.mainloop()
+
 
