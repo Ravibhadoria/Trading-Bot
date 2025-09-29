@@ -63,7 +63,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python main.py
+trading-bot.py  
 ```
 
 **Workflow for Success:**
@@ -136,4 +136,3 @@ Contributions are warmly welcome! Please open issues or submit pull requests for
 * Highlights **risk management** and **threaded programming**.
 * Ideal for **portfolio, GitHub showcase, and professional presentation**.
 
-```
